@@ -1,0 +1,13 @@
+ h1{
+    font-family: "Dynalight", cursive;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 70px;
+  }
+  .navbar img{
+    border-radius: 2ex;
+  }
+
+.nav-item{
+    font-size: 30px;
+}
